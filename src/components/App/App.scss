@@ -1,0 +1,10 @@
+#root {
+  text-align: center;
+}
+
+.content-wrap {
+    min-height: calc(100vh - 13vh);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
